@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.col{
+    text-align: center;
+}
+
+table, tr, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+td{
+    text-align: left;
+}
+
+.medImg{
+    max-width: 100%;
+}
